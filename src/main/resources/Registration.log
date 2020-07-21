@@ -1,0 +1,22 @@
+2020-07-15 10:28:55 DEBUG Incoming request : RegistrationRequest [registration=Registration [userName=null, phoneNumber=9505843531, emailId=anilmote1993@gmail.com, otp=null], notificationType=save]
+2020-07-15 10:33:24 DEBUG Incoming request : RegistrationRequest [registration=Registration [userName=null, phoneNumber=9010668876, emailId=info8srikanth@gmail.com, otp=null], notificationType=save]
+2020-07-15 10:34:58 ERROR Exception caught : Read timed out executing POST http://localhost:8093/mail/set
+2020-07-15 11:28:25 DEBUG Incoming request : RegistrationRequest [registration=Registration [userName=null, phoneNumber=9010668876, emailId=info8srikanth@gmail.com, otp=null], notificationType=save]
+2020-07-15 11:29:24 DEBUG Incoming request : RegistrationRequest [registration=Registration [userName=null, phoneNumber=9010668876, emailId=info8srikanth@gmail.com, otp=null], notificationType=save]
+2020-07-15 11:30:20 DEBUG Incoming request : RegistrationRequest [registration=Registration [userName=null, phoneNumber=9010668876, emailId=info8srikanth@gmail.com, otp=null], notificationType=save]
+2020-07-15 11:31:40 ERROR Exception caught : Read timed out executing POST http://localhost:8093/mail/set
+2020-07-15 11:40:05 DEBUG Incoming request : RegistrationRequest [registration=Registration [userName=null, phoneNumber=9010668876, emailId=info8srikanth@gmail.com, otp=null], notificationType=save]
+2020-07-15 11:41:46 DEBUG Incoming request : RegistrationRequest [registration=Registration [userName=null, phoneNumber=9010668876, emailId=anilmote1993@gmail.com, otp=null], notificationType=save]
+2020-07-15 11:43:09 DEBUG Incoming request : RegistrationRequest [registration=Registration [userName=null, phoneNumber=9010668876, emailId=anilmote1993@gmail.com, otp=null], notificationType=save]
+2020-07-15 11:53:08 DEBUG Incoming request : RegistrationRequest [registration=Registration [userName=null, phoneNumber=9010668876, emailId=anilmote1993@gmail.com, otp=null], notificationType=save]
+2020-07-15 11:53:56 DEBUG Incoming request : RegistrationRequest [registration=Registration [userName=null, phoneNumber=9010668876, emailId=info8srikanth@gmail.com, otp=null], notificationType=save]
+2020-07-15 11:57:39 DEBUG Incoming request : RegistrationRequest [registration=Registration [userName=null, phoneNumber=9010668876, emailId=info8srikanth@gmail.com, otp=null], notificationType=save]
+2020-07-15 11:58:50 DEBUG Incoming request : RegistrationRequest [registration=Registration [userName=null, phoneNumber=9010668876, emailId=anilmote1993@gmail.com, otp=null], notificationType=save]
+2020-07-15 12:12:21 DEBUG Incoming request : RegistrationRequest [registration=Registration [userName=null, phoneNumber=9010668876, emailId=anilmote1993@gmail.com, otp=null], notificationType=save]
+2020-07-15 12:26:48 DEBUG Incoming request : RegistrationRequest [registration=Registration [userName=null, phoneNumber=9010668876, emailId=anilmote1993@gmail.com, otp=null], notificationType=save]
+2020-07-15 12:42:38 DEBUG Incoming request : RegistrationRequest [registration=Registration [userName=null, phoneNumber=9010668876, emailId=info8srikanth@gmail.com, otp=null], notificationType=save]
+2020-07-15 14:46:57 DEBUG Incoming request : RegistrationRequest [registration=Registration [userName=null, phoneNumber=9010668876, emailId=anilmote1993@gmail.com, otp=null], notificationType=save]
+2020-07-15 14:46:59 ERROR Exception caught : Connection refused: connect executing POST http://localhost:8093/mail/set
+2020-07-15 16:31:45 DEBUG Incoming request : RegistrationRequest [registration=Registration [userName=null, phoneNumber=9010668876, emailId=anilmote1993@gmail.com, otp=null], notificationType=save]
+2020-07-15 16:31:48 ERROR Exception caught : Connection refused: connect executing POST http://localhost:8093/mail/set
+2020-07-15 16:33:40 DEBUG Incoming request : RegistrationRequest [registration=Registration [userName=null, phoneNumber=9010668876, emailId=anilmote1993@gmail.com, otp=null], notificationType=save]
